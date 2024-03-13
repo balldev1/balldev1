@@ -1,9 +1,10 @@
 <div class="flex flex-col items-center mb-20" align="center">
   <p class="text-4xl">I am a Full Error Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"> 
-<a href="https://www.facebook.com/ball.wangdeesamer">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>from Rama II Road 🇹🇭 Thailand.</p>
+from Rama II Road 🇹🇭 Thailand.</p>
   <div class="mt-5">
+    <a href="https://www.facebook.com/ball.wangdeesamer">
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
     <div id="header"> 
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balldev1&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="300">

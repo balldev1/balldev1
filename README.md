@@ -3,7 +3,7 @@
 From Rama II Road 🇹🇭 Thailand</p>
   <div>
     <p>Not finished yet
-I was born -present</p>
+I was born 1994 - present</p>
   </div>
   <div class="mt-5">
     <a href="https://www.facebook.com/ball.wangdeesamer">

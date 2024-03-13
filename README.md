@@ -7,7 +7,7 @@ I was born 1994-present</p>
   </div>
   <div class="mt-5">
     <a href="https://www.facebook.com/ball.wangdeesamer">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
     <div id="header"> 
       <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -1,6 +1,9 @@
 <div class="flex flex-col items-center mb-20" align="center">
   <p class="text-4xl">I am a Full Error Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"> 
-From Rama II Road 🇹🇭 Thailand not yet completed. 1994-Current</p>
+From Rama II Road 🇹🇭 Thailand</p>
+  <div>
+    <p>not yet completed. 1994-Current</p>
+  </div>
   <div class="mt-5">
     <a href="https://www.facebook.com/ball.wangdeesamer">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>

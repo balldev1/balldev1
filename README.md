@@ -3,7 +3,7 @@
   <div class="mt-5">
     <div id="header">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balldev1&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="500">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balldev1&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="300">
       </a>
     </div>
   </div>

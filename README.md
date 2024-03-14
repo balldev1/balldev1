@@ -2,7 +2,7 @@
   <p class="text-4xl">I am a Full Error Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"> 
 From Rama II Road 🇹🇭 Thailand</p>
   <div>
-    <p>Road construction not completed Since I was born until now</p>
+    <p>Road construction not completed Since I was born until now .</p>
   </div>
   <div class="mt-5">
     <a href="https://www.facebook.com/ball.wangdeesamer">

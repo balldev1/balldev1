@@ -5,7 +5,7 @@ From Rama II Road 🇹🇭 Thailand</p>
     <p>Road construction not completed Since I was born until now .</p>
   </div>
   <div class="mt-5">
-    <a href="https://www.facebook.com/ball.wangdeesamer">
+    <a href="https://line.me/ti/p/TYpE8OPIFD">
     <img src="https://img.shields.io/badge/line-green?style=for-the-badge&logo=line&logoColor=white" alt="line Badge"/>
   </a>
     <div id="header"> 

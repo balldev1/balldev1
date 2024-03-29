@@ -6,7 +6,7 @@ From Rama II Road 🇹🇭 Thailand</p>
   </div>
   <div class="mt-5">
     <a href="https://www.facebook.com/ball.wangdeesamer">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=line&logoColor=white" alt="facebook Badge"/>
+    <img src="https://img.shields.io/badge/line-green?style=for-the-badge&logo=line&logoColor=white" alt="line Badge"/>
   </a>
     <div id="header"> 
       <a href="https://github.com/anuraghazra/github-readme-stats">
